@@ -21,6 +21,7 @@ A tiny library for building modular UI components using [DOM diffing](#morphdom)
 
 - [adventuretron](https://github.com/adventuretron/adventuretron) - Create self-guided workshops using electron
 - [dat.land](https://github.com/datproject/dat.land) - The hosted web application for [dat](https://github.com/datproject/dat)
+- [enviar](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.
 - [minidocs](https://github.com/freeman-lab/minidocs) - Build a minimalist site for your documentation
 - [uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers.
 
@@ -39,9 +40,10 @@ Frameworks / libraries that use yo-yo.
 
 ## Components
 
-UI components & related modules that are compatible with yo-yo.
+UI components & related modules that are compatible with yo-yo. Many modules that are built with bel and choo as dependencies that create DOM nodes should be compatible with yo-yo (they all ultimately have bel as a dependency).
 
 - [beldown](https://github.com/sethvincent/beldown) - Turn markdown into DOM nodes using tagged template strings.
+- [choo-chartist](https://www.npmjs.com/package/choo-chartist) - A wrapper for using [Chartist](https://github.com/gionkunz/chartist-js).
 - [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component.
 - [element-wrapper](https://github.com/fraserxu/element-wrapper) - A simple and safe way to set innerHTML for yo-yo or bel component.
 - [interactive-sandbox](https://github.com/sethvincent/interactive-sandbox) - Create editable, interactive code examples for the browser that bundle dependencies from npm.
