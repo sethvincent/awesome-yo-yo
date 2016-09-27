@@ -11,6 +11,7 @@ Modules &amp; resources related to the yo-yo module.
 - [Frameworks](#frameworks)
 - [Components](#components)
 - [Resources](#resources)
+- [Related awesome lists](#related-awesome-lists)
 
 ## About
 
@@ -54,6 +55,10 @@ UI components & related modules that are compatible with yo-yo.
 ## Resources
 - :movie_camera: [TCBY community live hangout](https://www.youtube.com/watch?v=a97Mw2z1SAI)
 - :book: [Introduction to creating DOM elements with yo-yo.js](https://makerlog.org/posts/create-dom-elements-with-yoyo)
+
+## Related awesome lists
+
+- [awesome-choo](https://github.com/YerkoPalma/awesome-choo)
 
 ## License
 
