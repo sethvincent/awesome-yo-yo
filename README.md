@@ -43,6 +43,7 @@ Frameworks / libraries that use yo-yo.
 UI components & related modules that are compatible with yo-yo. Many modules that are built with bel and choo as dependencies that create DOM nodes should be compatible with yo-yo (they all ultimately have bel as a dependency).
 
 - [beldown](https://github.com/sethvincent/beldown) - Turn markdown into DOM nodes using tagged template strings.
+- [bel-video-element](https://github.com/fraserxu/bel-video-element) - A simple video element with bel.
 - [choo-chartist](https://www.npmjs.com/package/choo-chartist) - A wrapper for using [Chartist](https://github.com/gionkunz/chartist-js).
 - [dom-notifications](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component.
 - [element-wrapper](https://github.com/fraserxu/element-wrapper) - A simple and safe way to set innerHTML for yo-yo or bel component.
