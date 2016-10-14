@@ -1,5 +1,5 @@
 # awesome-yo-yo
-Modules &amp; resources related to the yo-yo module.
+Modules &amp; resources related to the [yo-yo](https://github.com/maxogden/yo-yo) module.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
