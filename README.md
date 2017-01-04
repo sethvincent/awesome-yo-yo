@@ -58,7 +58,7 @@ UI components & related modules that are compatible with yo-yo. Many modules tha
 
 ## Resources
 - :movie_camera: [TCBY community live hangout](https://www.youtube.com/watch?v=a97Mw2z1SAI)
-- :book: [Introduction to creating DOM elements with yo-yo.js](https://makerlog.org/posts/create-dom-elements-with-yoyo)
+- :book: [Introduction to yo-yo.js](https://writingjavascript.org/posts/introduction-to-yo-yo-js)
 
 ## Related awesome lists
 
