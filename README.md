@@ -55,6 +55,7 @@ UI components & related modules that are compatible with yo-yo. Many modules tha
 
 ## Build tools
 - [yo-yoify](https://github.com/shama/yo-yoify) - Transform yo-yo or bel template strings into pure and fast document calls.
+- [babel-plugin-yo-yoify](https://github.com/goto-bus-stop/babel-plugin-yo-yoify) - The same, but as a Babel plugin.
 
 ## Resources
 - :movie_camera: [TCBY community live hangout](https://www.youtube.com/watch?v=a97Mw2z1SAI)
